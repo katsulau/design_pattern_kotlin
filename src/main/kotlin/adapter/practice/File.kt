@@ -7,4 +7,7 @@ interface File {
 
     fun getValue(key: String): String
     fun setValue(key: String, value: String)
+
+
+
 }
